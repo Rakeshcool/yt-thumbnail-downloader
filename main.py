@@ -4,8 +4,8 @@ import requests
 from yt_dlp import YoutubeDL
 
 # ===========================
-SEARCH_QUERY = "amv"
-MAX_RESULTS = 100
+SEARCH_QUERY = "EDIT/AMV"
+MAX_RESULTS = 1000
 OUTPUT_DIR = "thumbnails"
 # ===========================
 
