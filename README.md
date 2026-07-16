@@ -29,7 +29,7 @@ uv sync
 If you're installing directly from source:
 
 ```bash
-git clone https://github.com/<username>/youtube-thumbnail-downloader.git
+git clone https://github.com/Rakeshcool/youtube-thumbnail-downloader.git
 
 cd youtube-thumbnail-downloader
 
